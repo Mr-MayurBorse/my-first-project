@@ -1,3 +1,3 @@
 # my-first-project
 This is my first Git hub Repository
-Author- Mr.Mayur_BOrse
+Author- Mr.Mayur_Borse
